@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">HIT-FASTER</string>
+    <string name="hit_corona">HIT-FASTER</string>
+    <string name="todos">TODO</string>
+    <string name="starting_hit_corona">Starting...</string>
+    <string name="todoss">TODO</string>
+    <string name="imagenIR">TODO</string>
+    <string name="reinciar">TODO</string>
+    <string name="startBlanco">TODO</string>
+    <string name="instrucciones">
+        1.Virus Verde, +30.
+        2.Virus Azul, +60.
+        3.Virus Rojo, -1 vida.
+    </string>
+    <string name="imagenDefinitiva">TODO</string>
+    <string name="instrucciones2">TODO</string>
+    <string name="imagen3">TODO</string>
+    <string name="copyright_2019_2020_all_rights_reserved">COPYRIGHT © 2019-2020 ALL RIGHTS RESERVED</string>
+    <string name="copyright_2019_2020_all_rights_reserved2">COPYRIGHT © 2019-2020 ALL RIGHTS RESERVED</string>
+    <string name="todo9">TODO</string>
+    <string name="todo11">TODO6</string>
+    <string name="derechos">copyright_2019_2020_all_rights_reserved</string>
+
+
+</resources>
